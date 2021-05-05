@@ -1,0 +1,17 @@
+
+
+.main{
+  height: calc(100vh - 101px);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.main_container{
+  width: 60%;
+  height: 100%;
+
+}
